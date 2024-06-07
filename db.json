@@ -12,7 +12,8 @@
           "screen_diagonal_inch": 27,
           "sharpness": "5K",
           "resolutions": "5120 x 2880 pixels",
-          "refresh_rate": "60Hz"
+          "refresh_rate": "60Hz",
+          "stock": 20
       },
       {
           "id": 2,
@@ -26,7 +27,8 @@
           "screen_diagonal_inch": 32,
           "sharpness": "WQHD",
           "resolutions": "2560 x 1440 pixels",
-          "refresh_rate": "240Hz"
+          "refresh_rate": "240Hz",
+          "stock": 20
       },
       {
           "id": 3,
@@ -40,7 +42,8 @@
           "screen_diagonal_inch": 27,
           "sharpness": "5K",
           "resolutions": "5120 x 2880 pixels",
-          "refresh_rate": "60Hz"
+          "refresh_rate": "60Hz",
+          "stock": 20
       },
       {
           "id": 4,
@@ -54,7 +57,8 @@
           "screen_diagonal_inch": 32,
           "sharpness": "4K",
           "resolutions": "3840 x 2160 pixels",
-          "refresh_rate": "60Hz"
+          "refresh_rate": "60Hz",
+          "stock": 20
       },
       {
           "id": 5,
@@ -68,7 +72,8 @@
           "screen_diagonal_inch": 27,
           "sharpness": "2K",
           "resolutions": "2560 x 1440 pixels",
-          "refresh_rate": "75Hz"
+          "refresh_rate": "75Hz",
+          "stock": 20
       },
       {
           "id": 6,
@@ -82,7 +87,8 @@
           "screen_diagonal_inch": 27,
           "sharpness": "4K",
           "resolutions": "3840 x 2160 pixels",
-          "refresh_rate": "60Hz"
+          "refresh_rate": "60Hz",
+          "stock": 20
       },
       {
           "id": 7,
@@ -96,7 +102,8 @@
           "screen_diagonal_inch": 27,
           "sharpness": "4K",
           "resolutions": "3840 x 2160 pixels",
-          "refresh_rate": "144Hz"
+          "refresh_rate": "144Hz",
+          "stock": 20
       },
       {
         "id": 8,
@@ -110,7 +117,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "60Hz"
+        "refresh_rate": "60Hz",
+        "stock": 20
       },
       {
         "id": 9,
@@ -124,7 +132,8 @@
         "screen_diagonal_inch": 65,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "120Hz"
+        "refresh_rate": "120Hz",
+        "stock": 20
       },
       {
         "id": 10,
@@ -138,7 +147,8 @@
         "screen_diagonal_inch": 34,
         "sharpness": "WQHD+",
         "resolutions": "3440 x 1440 pixels",
-        "refresh_rate": "100Hz"
+        "refresh_rate": "100Hz",
+        "stock": 20
       },
       {
         "id": 11,
@@ -152,7 +162,8 @@
         "screen_diagonal_inch": 34,
         "sharpness": "WQHD",
         "resolutions": "3440 x 1440 pixels",
-        "refresh_rate": "120Hz"
+        "refresh_rate": "120Hz",
+        "stock": 20
       },
       {
         "id": 12,
@@ -166,7 +177,8 @@
         "screen_diagonal_inch": 43,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "60Hz"
+        "refresh_rate": "60Hz",
+        "stock": 20
       },
       {
         "id": 13,
@@ -180,7 +192,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "144Hz"
+        "refresh_rate": "144Hz",
+        "stock": 20
       },
       {
         "id": 14,
@@ -194,7 +207,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "165Hz"
+        "refresh_rate": "165Hz",
+        "stock": 20
       },
       {
         "id": 15,
@@ -208,7 +222,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "165Hz"
+        "refresh_rate": "165Hz",
+        "stock": 20
       },
       {
         "id": 16,
@@ -222,7 +237,8 @@
         "screen_diagonal_inch": 49,
         "sharpness": "DQHD",
         "resolutions": "5120 x 1440 pixels",
-        "refresh_rate": "120Hz"
+        "refresh_rate": "120Hz",
+        "stock": 20
       },
       {
         "id": 17,
@@ -236,7 +252,8 @@
         "screen_diagonal_inch": 55,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "120Hz"
+        "refresh_rate": "120Hz",
+        "stock": 20
       },
       {
         "id": 18,
@@ -250,7 +267,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "165Hz"
+        "refresh_rate": "165Hz",
+        "stock": 20
       },
       {
         "id": 19,
@@ -264,7 +282,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "240Hz"
+        "refresh_rate": "240Hz",
+        "stock": 20
       },
       {
         "id": 20,
@@ -278,7 +297,8 @@
         "screen_diagonal_inch": 48,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "120Hz"
+        "refresh_rate": "120Hz",
+        "stock": 20
       },
       {
         "id": 21,
@@ -292,7 +312,8 @@
         "screen_diagonal_inch": 32,
         "sharpness": "QHD",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "165Hz"
+        "refresh_rate": "165Hz",
+        "stock": 20
       },
       {
         "id": 22,
@@ -306,7 +327,8 @@
         "screen_diagonal_inch": 49,
         "sharpness": "DQHD",
         "resolutions": "5120 x 1440 pixels",
-        "refresh_rate": "240Hz"
+        "refresh_rate": "240Hz",
+        "stock": 20
       },
       {
         "id": 23,
@@ -320,7 +342,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "WQHD",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "165Hz"
+        "refresh_rate": "165Hz",
+        "stock": 20
       },
       {
         "id": 24,
@@ -334,7 +357,8 @@
         "screen_diagonal_inch": 32,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "60Hz"
+        "refresh_rate": "60Hz",
+        "stock": 20
       },
       {
         "id": 25,
@@ -348,7 +372,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "144Hz"
+        "refresh_rate": "144Hz",
+        "stock": 20
       },
       {
         "id": 26,
@@ -362,7 +387,8 @@
         "screen_diagonal_inch": 43,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "144Hz"
+        "refresh_rate": "144Hz",
+        "stock": 20
       },
       {
         "id": 27,
@@ -375,7 +401,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "144Hz"
+        "refresh_rate": "144Hz",
+        "stock": 20
       },
       {
         "id": 28,
@@ -389,7 +416,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "1920 x 1080 pixels",
-        "refresh_rate": "144Hz"
+        "refresh_rate": "144Hz",
+        "stock": 20
       },
       {
         "id": 29,
@@ -403,7 +431,8 @@
         "screen_diagonal_inch": 27,
         "sharpness": "2K",
         "resolutions": "2560 x 1440 pixels",
-        "refresh_rate": "144Hz"
+        "refresh_rate": "144Hz",
+        "stock": 20
       },
       {
         "id": 30,
@@ -417,7 +446,8 @@
         "screen_diagonal_inch": 32,
         "sharpness": "4K",
         "resolutions": "3840 x 2160 pixels",
-        "refresh_rate": "60Hz"
+        "refresh_rate": "60Hz",
+        "stock": 20
       }
     ]
   }
